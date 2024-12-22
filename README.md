@@ -31,6 +31,11 @@ Here are some of the technologies and tools I work with:
 
 ![Hazziu's GitHub stats](https://github-readme-stats.vercel.app/api?username=hazziu&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
+
+## BaekJoon Card
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=shimj99)](https://solved.ac/shimj99)
+
 ## 🔗 Connect with Me
 Feel free to reach out to me via:
 - 📧 **Email**: shimj99@naver.com
