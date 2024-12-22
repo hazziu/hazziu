@@ -34,7 +34,7 @@ Here are some of the technologies and tools I work with:
 ## 🔗 Connect with Me
 Feel free to reach out to me via:
 - 📧 **Email**: shimj99@naver.com
-- 💬 **KakaoTalk**: [Chat with me on KakaoTalk](https://open.kakao.com/o/clong8888)
+- 💬 **KakaoTalk**: [Add me on KakaoTalk](https://pf.kakao.com/_clong8888)
 
 
 ## 📚 Latest Projects
